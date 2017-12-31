@@ -16,7 +16,7 @@ bounty = 4
 * Inscreva-se na nossa mailing list para atualizações sobre o Skywire Miner: http://eepurl.com/c4DyAv*
 
 Como é que podemos criar uma internet verdadeiramente gratuita e aberta? Para dar
-resposta a esta questão, nós desenvolvemos o Skywire, a nova internet alternativa. 
+resposta a esta questão, desenvolvemos o Skywire, a nova internet alternativa. 
 Skywire é uma nova tecnologia inovadora que retira o controlo aos grandes provedores 
 de serviços de internet (ISPs) e devolve-o aos utilizadores. O seu modelo peer-to-peer 
 promove a neutralidade da rede e a partilha de conteúdo sem bloqueio, lentidões ou 
