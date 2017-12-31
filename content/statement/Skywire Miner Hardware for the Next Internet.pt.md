@@ -13,7 +13,7 @@ categories = [
 bounty = 4
 +++
 
-* Inscreva-se na nossa mailing list para atualizações sobre o Skywire Miner: http://eepurl.com/c4DyAv*
+* Inscreva-se na nossa mailing list para atualizações sobre o Minerador Skywire: http://eepurl.com/c4DyAv*
 
 Como é que podemos criar uma internet verdadeiramente gratuita e aberta? Para dar
 resposta a esta questão, desenvolvemos o Skywire, a nova internet alternativa. 
