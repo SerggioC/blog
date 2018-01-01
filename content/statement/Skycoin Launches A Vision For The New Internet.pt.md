@@ -10,9 +10,9 @@ categories = [
 ]
 +++
 
-Skycoin, uma criptomoeda da nova geração com quatro anos de história de desenvolvimento é lançada em junho. O projeto Skycoin procura popularizar redes descentralizadas consertando os problemas com o Bitcoin. Mais de 80 desenvolvedores no Github e em outros lugares tem contribuído para o projeto desde 2012. 
+Skycoin, uma criptomoeda da nova geração com quatro anos de história de desenvolvimento será lançada para o público em junho. O projeto Skycoin procura popularizar redes descentralizadas consertando os problemas com o Bitcoin. Mais de 80 desenvolvedores no Github e em outros lugares tem contribuído para o projeto desde 2012. 
 
-Skycoin é uma moeda rápida, segura e confiável para transações online. Ela utiliza um algoritmo de consenso re-desenvolvido, um aperfeiçoamento do bitcoin, e é o primeiro algoritmo do tipo desde a Peercoin.
+Skycoin é uma moeda para transações online que é rápida, segura e confiável. Ela utiliza um algoritmo de consenso re-desenvolvido, um aperfeiçoamento do bitcoin, e é o primeiro algoritmo desse tipo desde a Peercoin.
 
 As principais características da Skycoin são velocidade, privacidade, segurança e o ecosistema.
 
