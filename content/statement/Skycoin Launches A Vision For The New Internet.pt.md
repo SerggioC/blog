@@ -10,52 +10,24 @@ categories = [
 ]
 +++
 
-Skycoin, a next-generation cryptocurrency with four years of development
-history, rolls out to the public in July. The Skycoin project seeks to
-popularize decentralized networking by fixing problems with Bitcoin. Over 80
-developers on Github and elsewhere have contributed to the project since 2012.
+Skycoin, uma criptomoeda da nova geração com quatro anos de história de desenvolvimento é lançada em junho. O projeto Skycoin procura popularizar redes descentralizadas consertando os problemas com o Bitcoin. Mais de 80 desenvolvedores no Github e em outros lugares tem contribuído para o projeto desde 2012. 
 
-Skycoin is a fast, secure, and reliable currency for online transactions.
-It uses a redesigned consensus algorithm that improves on Bitcoin,
-and is the first algorithm of its type since PeerCoin.
+Skycoin é uma moeda rápida, segura e confiável para transações online. Ela utiliza um algoritmo de consenso re-desenvolvido, um aperfeiçoamento do bitcoin, e é o primeiro algoritmo do tipo desde a Peercoin.
 
-Skycoin’s core features are speed, privacy, security, and ecosystem.
+As principais características da Skycoin são velocidade, privacidade, segurança e o ecosistema.
 
-In terms of speed, Skycoin competes with credit cards and Apple Pay.
-Transactions occur in seconds.
-This makes the coin suitable for Point-of-Sale (POS) and IOT transactions.
+Em termos de velocidade a Skycoin compete com cartões de crédito e Apple pay. As transações ocorrem em segundos. Isso faz com que a moeda seja adequada para pontos de venda e transações da internet das coisas (IOT).
 
-Skycoin can claim 100% private and anonymous transactions thanks to its use of
-CoinJoin protocol to mix transactions from more than one wallet.
-It also provides a secure transaction setting that uses encryption to
-protect from 51% attack and other common threats.
+A Skycoin atinge transações 100% privadas e anônimas graças ao uso do protocolo CoinJoin para embaralhar transações de uma mesma carteira. Ela também entrega um ambiente de transações seguras que utiliza criptografia para se proteger de ataques de 51% e outros tipos de ameaças comuns.
 
-The ecosystem surrounding Skycoin is expanding.
-Developers are building Skycoin apps and tools,
-which include planned options like social networks, VPN, and messaging.
+O ecosistema que engloba a Skycoin está se expandindo. Desenvolvedores estão criando aplicativos e ferramentas que incluem redes sociais, redes privadas (VPN) e mensageiros.
 
-Skycoin is set to level the playing field and create a decentralized internet
-by distributing value across the peer-to-peer community.
-It provides a public resource that eliminates the mining and inflation that
-plague other cryptocurrencies.
+A Skycoin irá nivelar o mercado e criar um sistema de internet descentralizada distribuindo valor entre comunidades peer-to-peer. Ela entrega recursos públicos que eliminam a mineração e inflação que infestam outras criptomoedas.
 
-But developers say that the Skycoin project isn’t just about cryptocurrency.
-It’s also the fuel behind Skywire, a peer-to-peer network that boldly seeks to
-replace the current internet landscape with something better.
+Mas os desenvolvedores dizem que o projeto Skycoin não é somente sobre criptomoeda. É também o combustível por trás da Skywire, uma rede peer-to-peer que corajosamente procura substituir a internet por algo melhor.
 
-“There are other repos on [github.com/skycoin](https://github.com/skycoin)
-for mesh networking and distributed VPN prototypes, where people will be paid
-tokens for forwarding traffic,” says Skycoin project founder Synth. “There is
-also a distributed social media service, with peer-to-peer data replication and
-different experimental projects, as well as research into immutable data
-structures for next-generation internet. Some of them are very radical.”
+"Existem outros repositórios no [github.com/skycoin](https://github.com/skycoin) para redes em malha e protótipos de VPN distribuídas em que pessoas são pagas em tokens para encaminhar tráfego", diz Synth, o fundador do projeto Skycoin. "Existe também um serviço de distribuição de mídia social com replicação de dados peer-to-peer e diferentes outros projetos experimentais, assim como pesquisa em estruturas de dados imutáveis para a Internet da nova geração. Alguns deles são muito radicais."
 
-Skywire users receive coins for sharing content and services.
-In this way, Skycoin invites users to participate in a larger mission:
-wresting control away from corporate internet service providers and giving it
-back to the community. It’s a shared social purpose that makes the Skycoin
-project unique.
+Usuários da Skywire irão receber moedas para compartilhar conteúdo e serviços. Dessa maneira a Skycoin convida os usuários para participar de uma missão ainda maior: Remover o controle dos servidores de internet corporativos e entregar ele de volta a comunidade. É o que faz da Skycoin ser um projeto único com um propósito social.
 
-Skycoin’s rollout and ongoing development can be followed online
-at [skycoin.net](https://www.skycoin.net).
-
+Lançamentos da skycoin e projetos em desenvolvimento podem ser encontrados online em [skycoin.net](https://www.skycoin.net).
